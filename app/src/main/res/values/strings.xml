@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Subscribers</string>
+    <string name="email">Email</string>
+    <string name="name">Nome</string>
+    <string name="add">Adicionar</string>
+    <string name="subscribe_title">Subscriber</string>
+
+    <string name="inserido_com_sucesso">Inserido com sucesso!!!</string>
+    <string name="inserido_com_erro">Erro ao inserir!!!</string>
+
+    <string name="subscriberList_title">Subscriber List</string>
+    <string name="subscriber_button_update">Update</string>
+    <string name="alterado_com_sucesso">Alterado com Sucesso!!!!</string>
+    <string name="alterado_com_erro">Erro ao alterar!!!</string>
+    <string name="delete">delete</string>
+    <string name="subscriber_deleted_sucessfuly">Deletado com sucesso!!!</string>
+    <string name="deletado_com_sucesso">Deletado com sucesso!!!</string>
+    <string name="todos_campos_devem_estar_preenchidos">Todos campos devem estar preenchidos!</string>
+</resources>
